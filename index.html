@@ -1,11 +1,36 @@
 <html>
+   <head>
+<style>
+a {
+  color: #fe1a1a;
+  font-weight: bold;
+  font-size: 30px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
 
-  <script src="//code.jquery.com/jquery.min.js"></script>
-<script>
-$.get("navigation.html", function(data){
-    $("#nav-placeholder").replaceWith(data);
-});
-</script>
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  background-color: #000000;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="all.html">All homebrew pages</a></li>
+</ul>
+</body>
   <b>
      <style>
     h1 {
