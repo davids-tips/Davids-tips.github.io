@@ -1,3 +1,7 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/davids-tips/Davids-tips.github.io)
+
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/davids-tips/Davids-tips.github.io)
+
 # Davids-tips.github.io
 **required lines for a new homebrew page**
 ```Html
