@@ -125,7 +125,7 @@
 	
 @font-face {
     font-family: 'Veteran Typewriter';
-    src: url('fonts/VeteranTypewriter.otf') format('opentype');
+    src: url('fonts/VeteranTypewriter.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
