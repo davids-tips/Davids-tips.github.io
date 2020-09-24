@@ -123,3 +123,10 @@
 		font-style: normal;
 	}
 	
+@font-face {
+    font-family: 'Veteran Typewriter';
+    src: url('fonts/VeteranTypewriter.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
