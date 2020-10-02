@@ -1,6 +1,4 @@
-git [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/davids-tips/Davids-tips.github.io)
-
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/davids-tips/Davids-tips.github.io)
+![Lines of code](https://img.shields.io/tokei/lines/github/davids-tips/davids-tips.github.io) https://img.shields.io/github/last-commit/davids-tips/davids-tips.github.io https://img.shields.io/github/repo-size/davids-tips/davids-tips.github.io ![GitHub pull requests](https://img.shields.io/github/issues-pr/davids-tips/davids-tips.github.io) https://img.shields.io/github/issues-raw/davids-tips/Davids-tips.github.io https://img.shields.io/github/issues-pr-closed/davids-tips/davids-tips.github.io [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/davids-tips/Davids-tips.github.io)
 
 # Davids-tips.github.io
 **required lines for a new homebrew page**
