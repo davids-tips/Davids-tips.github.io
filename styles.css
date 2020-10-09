@@ -1,234 +1,283 @@
 @import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@600&display=swap');
+
 @font-face {
-		font-family: "Bookinsanity";
-		src: url("./fonts/Bookinsanity/Bookinsanity.otf") format("opentype");
-		font-weight: normal;
-	}
-@font-face {
-		font-family: "Bookinsanity Bold Italic";
-		src: url("./fonts/Bookinsanity/Bookinsanity Bold Italic.otf") format("opentype");
-		font-weight: bold;
-	}
-@font-face {
-		font-family: "Solbera Imitation";
-		src: url("./fonts/Solbera Imitation/Solbera Imitation.otf") format("opentype");
-		font-weight: normal;
-	}
-@font-face {
-		font-family: "Scaly Sans Caps Italic";
-		src: url("./fonts/Scaly Sans Caps/Scaly Sans Caps Italic.otf") format("opentype");
-		font-weight: normal;
-		font-style: italic;
-	}
-@font-face {
-		font-family: "Scaly Sans Caps Bold";
-		src: url("./fonts/Scaly Sans Caps/Scaly Sans Caps Bold.otf") format("opentype");
-		font-weight: bold;
-		font-style: normal;
-	}
-@font-face {
-		font-family: "Scaly Sans Caps Bold Italic";
-		src: url("./fonts/Scaly Sans Caps/Scaly Sans Caps Bold Italic.otf") format("opentype");
-		font-weight: bold;
-	}
-	
-@font-face {
-		font-family: "Scaly Sans Caps";
-		src: url("./fonts/Scaly Sans Caps/Scaly Sans Caps.otf") format("opentype");
-		font-weight: normal;
-	}
-@font-face {
-		font-family: "Scaly Sans Italic";
-		src: url("./fonts/Scaly Sans/Scaly Sans Italic.otf") format("opentype");
-		font-weight: normal;
-		font-style: italic;
-	}
-	
-@font-face {
-		font-family: "Scaly Sans Bold";
-		src: url("./fonts/Scaly Sans/Scaly Sans Bold.otf") format("opentype");
-		font-weight: bold;
-		font-style: normal;
-	}
-@font-face {
-		font-family: "Scaly Sans Bold Italic";
-		src: url("./fonts/Scaly Sans/Scaly Sans Bold Italic.otf") format("opentype");
-		font-weight: bold;
-		font-style: italic;
-	}
-@font-face {
-		font-family: "Scaly Sans";
-		src: url("./fonts/Scaly Sans/Scaly Sans.otf") format("opentype");
-		font-weight: normal;
-	}
-@font-face {
-		font-family: "Mr Eaves Small Caps";
-		src: url("./fonts/Mr Eaves/Mr Eaves Small Caps.otf") format("opentype");
-		font-weight: normal;
-	}
-@font-face {
-		font-family: "Nodesto Caps Condensed Italic";
-		src: url("./fonts/Nodesto Caps Condensed/Nodesto Caps Condensed Italic.otf") format("opentype");
-		font-weight: normal;
-		font-style: italic;
-	}
-@font-face {
-		font-family: "Nodesto Caps Condensed Bold";
-		src: url("./fonts/Nodesto Caps Condensed/Nodesto Caps Condensed Bold.otf") format("opentype");
-		font-weight: bold;
-		font-style: normal;
-	}
-@font-face {
-		font-family: "Nodesto Caps Condensed Bold Italic";
-		src: url("./fonts/Nodesto Caps Condensed/Nodesto Caps Condensed Bold Italic.otf") format("opentype");
-		font-weight: bold;
-	}
-	
-@font-face {
-		font-family: "Nodesto Caps Condensed";
-		src: url("./fonts/Nodesto Caps Condensed/Nodesto Caps Condensed.otf") format("opentype");
-		font-weight: normal;
-	}
-@font-face {
-		font-family: "Zatanna Misdirection Italic";
-		src: url("./fonts/Zatanna Misdirection/Zatanna Misdirection Italic.otf") format("opentype");
-		font-weight: normal;
-		font-style: italic;
-	}
-@font-face {
-		font-family: "Zatanna Misdirection Bold";
-		src: url("./fonts/Zatanna Misdirection/Zatanna Misdirection Bold.otf") format("opentype");
-		font-weight: bold;
-		font-style: normal;
-	}
-@font-face {
-		font-family: "Zatanna Misdirection Bold Italic";
-		src: url("./fonts/Zatanna Misdirection/Zatanna Misdirection Bold Italic.otf") format("opentype");
-		font-weight: bold;
-	}
-@font-face {
-		font-family: "Zatanna Misdirection";
-		src: url("./fonts/Zatanna Misdirection/Zatanna Misdirection.otf") format("opentype");
-		font-weight: normal;
-	}
-@font-face {
-		font-family: "Bookinsanity Italic";
-		src: url("./fonts/Bookinsanity/Bookinsanity Italic.otf") format("opentype");
-		font-weight: normal;
-		font-style: italic;
-	}
-@font-face {
-		font-family: "Bookinsanity Bold";
-		src: url("./fonts/Bookinsanity/Bookinsanity Bold.otf") format("opentype");
-		font-weight: bold;
-		font-style: normal;
-	}
-	
-@font-face {
-    font-family: 'Veteran Typewriter';
-    src: url('fonts/VeteranTypewriter.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+	font-family: "Bookinsanity";
+	src: url("./fonts/Bookinsanity/Bookinsanity.otf") format("opentype");
+	font-weight: normal;
 }
+
+@font-face {
+	font-family: "Bookinsanity Bold Italic";
+	src: url("./fonts/Bookinsanity/Bookinsanity Bold Italic.otf") format("opentype");
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: "Solbera Imitation";
+	src: url("./fonts/Solbera Imitation/Solbera Imitation.otf") format("opentype");
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Scaly Sans Caps Italic";
+	src: url("./fonts/Scaly Sans Caps/Scaly Sans Caps Italic.otf") format("opentype");
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "Scaly Sans Caps Bold";
+	src: url("./fonts/Scaly Sans Caps/Scaly Sans Caps Bold.otf") format("opentype");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Scaly Sans Caps Bold Italic";
+	src: url("./fonts/Scaly Sans Caps/Scaly Sans Caps Bold Italic.otf") format("opentype");
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: "Scaly Sans Caps";
+	src: url("./fonts/Scaly Sans Caps/Scaly Sans Caps.otf") format("opentype");
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Scaly Sans Italic";
+	src: url("./fonts/Scaly Sans/Scaly Sans Italic.otf") format("opentype");
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "Scaly Sans Bold";
+	src: url("./fonts/Scaly Sans/Scaly Sans Bold.otf") format("opentype");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Scaly Sans Bold Italic";
+	src: url("./fonts/Scaly Sans/Scaly Sans Bold Italic.otf") format("opentype");
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "Scaly Sans";
+	src: url("./fonts/Scaly Sans/Scaly Sans.otf") format("opentype");
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Mr Eaves Small Caps";
+	src: url("./fonts/Mr Eaves/Mr Eaves Small Caps.otf") format("opentype");
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Nodesto Caps Condensed Italic";
+	src: url("./fonts/Nodesto Caps Condensed/Nodesto Caps Condensed Italic.otf") format("opentype");
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "Nodesto Caps Condensed Bold";
+	src: url("./fonts/Nodesto Caps Condensed/Nodesto Caps Condensed Bold.otf") format("opentype");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Nodesto Caps Condensed Bold Italic";
+	src: url("./fonts/Nodesto Caps Condensed/Nodesto Caps Condensed Bold Italic.otf") format("opentype");
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: "Nodesto Caps Condensed";
+	src: url("./fonts/Nodesto Caps Condensed/Nodesto Caps Condensed.otf") format("opentype");
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Zatanna Misdirection Italic";
+	src: url("./fonts/Zatanna Misdirection/Zatanna Misdirection Italic.otf") format("opentype");
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "Zatanna Misdirection Bold";
+	src: url("./fonts/Zatanna Misdirection/Zatanna Misdirection Bold.otf") format("opentype");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Zatanna Misdirection Bold Italic";
+	src: url("./fonts/Zatanna Misdirection/Zatanna Misdirection Bold Italic.otf") format("opentype");
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: "Zatanna Misdirection";
+	src: url("./fonts/Zatanna Misdirection/Zatanna Misdirection.otf") format("opentype");
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Bookinsanity Italic";
+	src: url("./fonts/Bookinsanity/Bookinsanity Italic.otf") format("opentype");
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "Bookinsanity Bold";
+	src: url("./fonts/Bookinsanity/Bookinsanity Bold.otf") format("opentype");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Veteran Typewriter';
+	src: url('fonts/VeteranTypewriter.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
 ul {
 	list-style-type: square;
-  }
-  
-		h1 {
-		  font-family: "Mr Eaves Small Caps";
-  
-		  font-weight: bolder;
-  
-		  font-style: normal;
-		}
-  
-		h2 {
-		  font-family: "Bookinsanity";
-  
-		  font-weight: bold;
-  
-		  font-style: normal;
-		}
-  
-		h3 {
-		  font-family: "Scaly Sans";
-  
-		  font-weight: normal;
-  
-		  font-style: italic;
-		}
-  
-		h4 {
-		  font-family: "Mr. Eaves Small Caps";
-  
-		  font-weight: normal;
-  
-		  font-style: normal;
-  
-		  opacity: 50%;
-		}
-  
-		h5 {
-		  font-family: "Zatanna Misdirection";
-		  font-weight: normal;
-		  font-style: normal;
-		  font-size: 40px;
-		}
-  
-		table,
-		th,
-		td {
-		  border: 1px solid black;
-		  font-family: "bookinsanity";
-		  font-weight: normal;
-		  font-style: normal;
-		}
-  
-		th {
-		  text-align: left;
-		}
-  
-		#t01 {
-		  width: 100%;
-		  background-color: #f1f1c1;
-		}
-		a { font-family: 'Veteran Typewriter'; font-weight: normal; font-style: normal; color:black; font-size:20px; }
-		.cookie-banner {
-			position: fixed;
-			bottom: 40px;
-			left: 10%;
-			right: 10%;
-			width: 80%;
-			padding: 5px 14px;
-			display: flex;
-			align-items: center;
-			justify-content: space-between;
-			background-color: #eee;
-			border-radius: 5px;
-			box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
-		}
-		.close {
-			height: 20px;
-			background-color: #777;
-			border: none;
-			color: white;
-			border-radius: 2px;
-			cursor: pointer;
-		}
-		table, th, td {
-			border:1px solid black;
-			font-family:'bookinsanity';
-			font-weight:normal;
-			font-style:normal;
-		  }
-		  th {
-			text-align: left;
-		  }
-		  #t01 {
-			width: 100%;
-			background-color: #f1f1c1;
-		  }	
-		  body{
-			background="/images/itemtemp.png"  
-		  }
+}
+
+h1 {
+	font-family: "Mr Eaves Small Caps";
+
+	font-weight: bolder;
+
+	font-style: normal;
+}
+
+h2 {
+	font-family: "Bookinsanity";
+
+	font-weight: bold;
+
+	font-style: normal;
+}
+
+h3 {
+	font-family: "Scaly Sans";
+
+	font-weight: normal;
+
+	font-style: italic;
+}
+
+h4 {
+	font-family: "Mr. Eaves Small Caps";
+
+	font-weight: normal;
+
+	font-style: normal;
+
+	opacity: 50%;
+}
+
+h5 {
+	font-family: "Zatanna Misdirection";
+	font-weight: normal;
+	font-style: normal;
+	font-size: 40px;
+}
+
+table,
+th,
+td {
+	border: 1px solid black;
+	font-family: "bookinsanity";
+	font-weight: normal;
+	font-style: normal;
+}
+
+th {
+	text-align: left;
+}
+
+#t01 {
+	width: 100%;
+	background-color: #f1f1c1;
+}
+
+a {
+	font-family: 'Veteran Typewriter';
+	font-weight: normal;
+	font-style: normal;
+	color: black;
+	font-size: 20px;
+}
+
+.cookie-banner {
+	position: fixed;
+	bottom: 40px;
+	left: 10%;
+	right: 10%;
+	width: 80%;
+	padding: 5px 14px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: #eee;
+	border-radius: 5px;
+	box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.close {
+	height: 20px;
+	background-color: #777;
+	border: none;
+	color: white;
+	border-radius: 2px;
+	cursor: pointer;
+}
+
+table,
+th,
+td {
+	border: 1px solid black;
+	font-family: 'bookinsanity';
+	font-weight: normal;
+	font-style: normal;
+}
+
+th {
+	text-align: left;
+}
+
+#t01 {
+	width: 100%;
+	background-color: #f1f1c1;
+}
+
+body {
+	background="/images/itemtemp.png"
+}
+
+#test1 {
+	border: thin solid black;
+	width: 150px;
+	height: 150px;
+	text-align: justify;
+	background-color: yellow;
+	word-wrap: break-word;
+	/* words won't go from the boundry */
+	margin: 10px 20px auto;
+	/* top, left, bottom*/
+	padding: 10px 20px 30px;
+	float: left;
+}
