@@ -153,6 +153,8 @@
 
 ul {
 	list-style-type: square;
+	font-family: "Scaly Sans";
+	font-style: normal;
 }
 
 h1 {
@@ -250,18 +252,22 @@ table,
 th,
 td {
 	border: 1px solid black;
-	font-family: 'bookinsanity';
+	font-family: "Scaly Sans";
 	font-weight: normal;
 	font-style: normal;
 }
 
 th {
 	text-align: left;
+	font-family: "Scaly Sans";
+	font-style: normal;
 }
 
 #t01 {
 	width: 100%;
 	background-color: #f1f1c1;
+	font-family: "Scaly Sans";
+	font-style: normal;
 }
 
 body {
