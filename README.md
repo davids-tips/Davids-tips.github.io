@@ -1,6 +1,6 @@
 
 ![Lines of code](https://img.shields.io/tokei/lines/github/davids-tips/davids-tips.github.io) 
-![](https://img.shields.io/github/last-commit/davids-tips/davids-tips.github.io 
+![](https://img.shields.io/github/last-commit/davids-tips/davids-tips.github.io)
 ![](https://img.shields.io/github/repo-size/davids-tips/davids-tips.github.io)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/davids-tips/davids-tips.github.io) 
 ![](https://img.shields.io/github/issues-raw/davids-tips/Davids-tips.github.io)
