@@ -271,12 +271,12 @@ th {
 }
 
 body {
-	background="/images/itemtemp.png"
+	background:"/images/itemtemp.png";
 }
 
 #test1 {
-	border: thin solid black;
-	width: 150px;
+	border:thin solid black;
+	width:150px;
 	height: 150px;
 	text-align: justify;
 	background-color: yellow;
@@ -286,7 +286,4 @@ body {
 	/* top, left, bottom*/
 	padding: 10px 20px 30px;
 	float: left;
-}
- {
-	color #f1f1c1;
 }
