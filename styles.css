@@ -273,6 +273,13 @@ th {
 body {
 	background="/images/itemtemp.png"
 }
+* {
+ box-sizing: border-box;
+}
+*:before,
+*:after {
+ box-sizing: border-box;
+}
 .main-container {
  min-height: 100vh; /* will cover the 100% of viewport */
  overflow: hidden;
