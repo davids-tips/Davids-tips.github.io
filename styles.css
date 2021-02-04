@@ -276,7 +276,7 @@ footer {
   text-align: center;
 }
 body {
-background-image: url("itemtemp.webp");
+	background="./itemtemp.webp"
 }
 * {
  box-sizing: border-box;
