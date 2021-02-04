@@ -271,7 +271,7 @@ th {
 }
 
 body {
-	background="/images/itemtemp.png"
+	background="./itemtemp.webp"
 }
 * {
  box-sizing: border-box;
