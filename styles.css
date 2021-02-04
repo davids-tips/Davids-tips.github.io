@@ -271,7 +271,7 @@ th {
 }
 
 body {
-	background="./itemtemp.webp"
+background-image: url("itemtemp.webp");
 }
 * {
  box-sizing: border-box;
