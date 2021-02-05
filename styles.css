@@ -269,9 +269,14 @@ th {
 	font-family: "Scaly Sans";
 	font-style: normal;
 }
-
+footer {
+    display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  text-align: center;
+}
 body {
-background-image: url("itemtemp.webp");
+	background="./itemtemp.webp"
 }
 * {
  box-sizing: border-box;
