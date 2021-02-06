@@ -23,7 +23,12 @@ ul li{
   background: #0084ff;
   color: #fff;
 }
- 
+.centerme{
+  float: center;
+  background: #0084ff;
+  color: #fff;
+  font-size: 100px;
+}
 .him + .me{
   border-bottom-right-radius: 5px;
 }
