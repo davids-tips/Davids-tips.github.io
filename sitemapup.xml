@@ -33,7 +33,7 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://davids-tips.github.io/pcmi.html</loc>
+  <loc>https://davids-tips.github.io/./html/common/mi/pcmi.html</loc>
   <changefreq>hourly</changefreq>
   <priority>0.64</priority>
 </url>
