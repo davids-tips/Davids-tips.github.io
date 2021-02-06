@@ -276,7 +276,8 @@ footer {
   text-align: center;
 }
 body {
-	background="./itemtemp.webp"
+    background-image: "./itemtemp.webp";
+	
 }
 * {
  box-sizing: border-box;
