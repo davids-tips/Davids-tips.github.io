@@ -13,17 +13,17 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://davids-tips.github.io/index.html</loc>
+  <loc>https://davids-tips.github.io./index.html</loc>
   <changefreq>hourly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://davids-tips.github.io/pageindex.html</loc>
+  <loc>https://davids-tips.github.io/./HTML/pageindex.html</loc>
   <changefreq>hourly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://davids-tips.github.io/Test.html</loc>
+  <loc>https://davids-tips.github.io//Test/Test.html</loc>
   <changefreq>hourly</changefreq>
   <priority>0.80</priority>
 </url>
