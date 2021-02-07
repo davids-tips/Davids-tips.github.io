@@ -157,6 +157,18 @@ ul {
 	font-style: normal;
 }
 
+hWarn {
+	font-family: "Mr Eaves Small Caps";
+
+    font-color: Red;
+
+    font-size: 30px;
+
+	font-weight: bolder;
+
+	font-style: normal;
+}
+
 h1 {
 	font-family: "Mr Eaves Small Caps";
 
