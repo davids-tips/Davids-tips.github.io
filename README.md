@@ -19,6 +19,6 @@
 ===============================================================================================================
 
 COPYRIGHT © 2019-2021 Whiskey Dev Group All Rights Reserved.
-  Whiskey Dev Group is Owned and Operated by David A. Powell
-
 ===============================================================================================================
+
+Whiskey Dev Group is Owned and Operated by David A. Powell
