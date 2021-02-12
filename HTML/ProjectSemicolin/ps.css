@@ -3,7 +3,7 @@ ul{
   margin: 0;
   padding: 0;
 }
- 
+
 ul li{
   display:inline-block;
   clear: both;
@@ -12,32 +12,46 @@ ul li{
   margin-bottom: 2px;
   font-family: Helvetica, Arial, sans-serif;
 }
- 
+
 .him{
   background: #eee;
   float: left;
 }
- 
+
+.temp{
+    font-family: Helvetica, Arial, sans-serif;
+}
 .me{
   float: right;
   background: #0084ff;
   color: #fff;
 }
-.centerme{
-  float: center;
-  background: #0084ff;
-  color: #fff;
-  font-size: 100px;
-}
+
 .him + .me{
   border-bottom-right-radius: 5px;
 }
- 
+
 .me + .me{
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
 }
- 
+
+.him + .mesc{
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.mesc + .me{
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
 .me:last-of-type {
   border-bottom-right-radius: 30px;
+}
+.mesc{
+  float: right;
+  background: #0084ff;
+ color: #fff;
+  font-size: 100px;
 }
