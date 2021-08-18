@@ -1,0 +1,23 @@
+body {
+    font-size: 15pt;
+    font-family: Impact;
+    color: lightgray;
+    background-color: darkslategrey
+}
+header {
+    font-size: 20pt;
+    font-weight: bolder;
+    font-style:italic;
+    color: white;
+}
+CenteredH1 {
+    font-size:20pt;
+    font-weight: bolder;
+    color: lightblue;
+}
+space {
+    white-space: 20pt;
+}
+iframe {
+    visibility: hidden;
+}
