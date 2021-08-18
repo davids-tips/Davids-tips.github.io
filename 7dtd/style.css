@@ -6,13 +6,13 @@ body {
 }
 header {
     font-size: 20pt;
-    font-weight: bolder;
+    font-weight: bold;
     font-style:italic;
     color: white;
 }
 CenteredH1 {
     font-size:20pt;
-    font-weight: bolder;
+    font-weight: bold;
     color: lightblue;
 }
 space {
